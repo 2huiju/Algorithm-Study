@@ -84,7 +84,7 @@ ex) update 2huiju_p86051.js (add enumerate method) <br>
 
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
 |------|---|---|---|---|---|---|---|
-|2huiju||||||||
+|2huiju||:white_check_mark:||||||
 |Jaewoneeee||:white_check_mark:||||||
 
 <!-- 체크표 양식
