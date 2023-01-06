@@ -37,12 +37,11 @@
 ## Author
 
 :woman_technologist: 2huiju
-
 - github : https://github.com/2huiju
 - blog: https://velog.io/@huiju
-  <br>
-  :man_technologist: Jaewoneeee
-
+<br>
+  
+:man_technologist: Jaewoneeee
 - github : https://github.com/Jaewoneeee
 
 ## About Study
