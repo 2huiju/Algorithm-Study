@@ -31,5 +31,5 @@ function solution(food) {
         }
     }
     var answer = str.join("") + "0" + str.reverse().join("");
-    return answer;
+    return answer; 
 }
