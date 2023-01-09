@@ -37,11 +37,13 @@
 ## Author
 
 :woman_technologist: 2huiju
+
 - github : https://github.com/2huiju
 - blog: https://velog.io/@huiju
-<br>
-  
+  <br>
+
 :man_technologist: Jaewoneeee
+
 - github : https://github.com/Jaewoneeee
 
 ## About Study
@@ -69,12 +71,11 @@
 
 ### Study progress
 
-1. 풀 문제를 정한 뒤 Issue에 추가합니다. <br>
+1. 프로젝트 폴더는 주단위로 구분되어 있으며 해당 문제폴더에 맞게 코드를 작성합니다.
+2. js 파일이름의 규칙은 자신의ID_QuestName.js 입니다. <br>
    ( 백준은 b.문제번호, 프로그래머스는 p.문제번호, 해커랭크는 h.문제번호 등 알파벳 맨 앞글자 따기 )
-2. 프로젝트 폴더는 주단위로 구분되어 있으며 해당 문제폴더에 맞게 코드를 작성합니다.
-3. js 파일이름의 규칙은 자신의ID_QuestName.js 입니다.
-4. 문제를 다 풀고나면 README.md에서 자신이 푼 요일에 :white_check_mark: 표시를 해줍니다.
-5. Issue에서 동료들이 푼 문제를 보고 느낀점을 코멘트를 달아주세요 (선택사항 이지만 기분이 좋아짐)
+3. 문제를 다 풀고나면 README.md에서 자신이 푼 요일에 :white_check_mark: 표시를 해줍니다.
+4. 동료들이 푼 문제를 보고 느낀점을 코멘트를 달아주세요 (선택사항 이지만 기분이 좋아짐)
 
 ### Commit message
 
@@ -88,10 +89,17 @@
 
 ### week1 (23.01.02 Mon Start!)
 
-| Author     | Mon. | Tue.               | Wed.               | Thu.               | Fri.               | Sat. | Sun. |
-| ---------- | ---- | ------------------ | ------------------ | ------------------ | ------------------ | ---- | ---- |
-| 2huiju     |      | :white_check_mark: |                    |                    | :white_check_mark: |      |      |
-| Jaewoneeee |      | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:|      |      |
+| Author     | Mon. | Tue.               | Wed.               | Thu.               | Fri.               | Sat. | Sun.               |
+| ---------- | ---- | ------------------ | ------------------ | ------------------ | ------------------ | ---- | ------------------ |
+| 2huiju     |      | :white_check_mark: |                    |                    | :white_check_mark: |      |                    |
+| Jaewoneeee |      | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      | :white_check_mark: |
+
+### week2
+
+| Author     | Mon.               | Tue. | Wed. | Thu. | Fri. | Sat. | Sun. |
+| ---------- | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2huiju     | :white_check_mark: |      |      |      |      |      |      |
+| Jaewoneeee |                    |      |      |      |      |      |      |
 
 <!-- 체크표 양식
 ### week11 (22.08.15 ~ 22.08.21)
