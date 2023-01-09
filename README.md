@@ -37,11 +37,13 @@
 ## Author
 
 :woman_technologist: 2huiju
+
 - github : https://github.com/2huiju
 - blog: https://velog.io/@huiju
-<br>
-  
+  <br>
+
 :man_technologist: Jaewoneeee
+
 - github : https://github.com/Jaewoneeee
 
 ## About Study
@@ -87,10 +89,17 @@
 
 ### week1 (23.01.02 Mon Start!)
 
-| Author     | Mon. | Tue.               | Wed.               | Thu.               | Fri.               | Sat. | Sun. |
-| ---------- | ---- | ------------------ | ------------------ | ------------------ | ------------------ | ---- | ---- |
-| 2huiju     |      | :white_check_mark: |                    |                    | :white_check_mark: |      |      |
-| Jaewoneeee |      | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark:|      |:white_check_mark:|
+| Author     | Mon. | Tue.               | Wed.               | Thu.               | Fri.               | Sat. | Sun.               |
+| ---------- | ---- | ------------------ | ------------------ | ------------------ | ------------------ | ---- | ------------------ |
+| 2huiju     |      | :white_check_mark: |                    |                    | :white_check_mark: |      |                    |
+| Jaewoneeee |      | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |      | :white_check_mark: |
+
+### week2
+
+| Author     | Mon.               | Tue. | Wed. | Thu. | Fri. | Sat. | Sun. |
+| ---------- | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2huiju     | :white_check_mark: |      |      |      |      |      |      |
+| Jaewoneeee |                    |      |      |      |      |      |      |
 
 <!-- 체크표 양식
 ### week11 (22.08.15 ~ 22.08.21)
