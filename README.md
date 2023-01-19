@@ -105,7 +105,7 @@
 | Author     | Mon.               | Tue.               | Wed.               | Thu.               | Fri. | Sat. | Sun. |
 | ---------- | ------------------ | ------------------ | ------------------ | ------------------ | ---- | ---- | ---- |
 | 2huiju     |                     |    |     |    |      |      |      |
-| Jaewoneeee |:white_check_mark:|    |:white_check_mark:|    |      |      |      |
+| Jaewoneeee |:white_check_mark:|    |:white_check_mark:|:white_check_mark:|      |      |      |
 
 <!-- 체크표 양식
 ### week11 (22.08.15 ~ 22.08.21)
